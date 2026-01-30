@@ -175,22 +175,6 @@ Explore the fully interactive prototype here:
 
 Note: This is a high-fidelity prototype designed for hackathon and demonstration purposes.
 
-🏆 Hackathon Readiness
-
-This project is designed to be:
-
-Production-ready in concept
-
-Hospital-safe in design
-
-Ethically responsible
-
-Scalable and auditable
-
-Judges should feel:
-
-“This system can be deployed.”
-
 👥 Team
 
 Team Name: Tech Leaders
